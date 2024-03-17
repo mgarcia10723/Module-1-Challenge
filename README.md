@@ -1,6 +1,6 @@
 #  COINBASE
 
-![Coinbase Logo](image.png) <https://www.coinbase.com/>
+<a href= "https://www.coinbase.com/"> <img src="image.png" alt="Coinbase Logo"> </a>  
 
 ## HOW COINBASE BECAME THE LEADING CRYPTOCURRENCY APP IN THE USA
 
