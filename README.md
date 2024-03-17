@@ -1,6 +1,6 @@
 #  COINBASE
 
-![Coinbase Logo](https://www.coinbase.com/)
+![Coinbase Logo](image.png) <https://www.coinbase.com/>
 
 ## HOW COINBASE BECAME THE LEADING CRYPTOCURRENCY APP IN THE USA
 
