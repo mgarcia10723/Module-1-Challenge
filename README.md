@@ -53,6 +53,24 @@ In August, Coinbase announced that it was targeted by a hacking attack attempt i
 
 Over the years, Coinbase has not only expanded its cryptocurrency portfolio but also added new services including Coinbase Pro for experienced traders, Coinbase Wallet for storing cryptocurrencies and various financial services for corporate clients.
 
+### **-Target Audience**
+
+Coinbase's target audience are people with limited resources.  The business of coinbase is built around the B2C and B2B models. The company targets two primary customer groups: Those who use the platform for buying and selling digital assets with the help of the wallet that Coinbase (B2C) offers.
+
+Coinbase is one of the most liquid regulated crypto spot exchanges in the world. Get low cost of execution leveraging a dynamic fee structure for high-volume trading.
+
+Coinbase had 108 million users in 2022, up from 56 million people in 2021. This equates to 92.8% year-on-year growth. The platform's user base is up over 100x in the past 9 years.
+
+Coinbase's competitors and similar companies include Robinhood, Blockchain, Binance, Bittrex and Bitfinex.
+
+### **-Technology**
+
+The technology that Coinbase employs is Blockchain. Blockchain is the technology that enables the existence of cryptocurrency (among other things). Bitcoin is the name of the best-known cryptocurrency, the one for which blockchain technology, as we currently know it, was created.The Coinbase platform uses both Base — Coinbase's layer-2 blockchain — and Coinbase's technology stack, which includes Coinbase Prime, Web3 Wallet and USDC. The platform itself is managed by Coinbase Asset Management.  they use a variety of programming languages, including Python, Java, JavaScript, C#, and Go. They also use several frameworks such as Node. js, React, and Angular. Ruby/JS, as well as objective-C and Java (for mobile platforms).
+
+Coinbase Wallet supports the following networks: Ethereum, Polygon, Bitcoin, Dogecoin, Litecoin, Stellar Lumens, Ripple, and Solana. Coinbase Wallet also supports the following Ethereum Layer-2 networks: Arbitrum, Avalanche C-Chain, BNB Chain, Fantom Opera, Optimism, Polygon, and Gnosis.  
+
+Like all financial services companies, Coinbase needs to provide a seamless experience for consumers while taking steps to secure the environment in which they operate. For this, the company relies on artificial intelligence (AI) using machine learning tools from Amazon Web Services (AWS).
+
 
 
 
